@@ -12,4 +12,3 @@ Repository = "https://github.com/BillyBGit/ComfyUI-PortraitDatasetTools"
 [tool.comfy]
 PublisherId = "BillyBGit"
 DisplayName = "Portrait Dataset Tools"
-Icon = ""
