@@ -10,5 +10,5 @@ dependencies = ["insightface", "opencv-python", "numpy", "Pillow", "onnxruntime"
 Repository = "https://github.com/BillyBGit/ComfyUI-PortraitDatasetTools"
 
 [tool.comfy]
-PublisherId = "BillyBGit"
+PublisherId = "billybgit"
 DisplayName = "Portrait Dataset Tools"
