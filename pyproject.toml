@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-portraitdatasettools"
+description = "Measurement-driven nodes for building face-centric LoRA training sets: score a portrait, then route it through only the processing it actually needs."
+version = "1.0.0"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = ["insightface", "opencv-python", "numpy", "Pillow", "onnxruntime"]
+
+[project.urls]
+Repository = "https://github.com/BillyBGit/ComfyUI-PortraitDatasetTools"
+
+[tool.comfy]
+PublisherId = "BillyBGit"
+DisplayName = "Portrait Dataset Tools"
+Icon = ""
